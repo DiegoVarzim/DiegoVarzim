@@ -5,8 +5,8 @@
 ### Skills aprendidas até o momento
 
  - Git;
- - Github.
-
+ - Github;
+ - JavaScript básico.
 Carreira em construção...
 <!--
 **DiegoVarzim/DiegoVarzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
