@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Dev Front-end iniciante
+## Desenvolvedor de Software iniciante
 
 ### Skills aprendidas até o momento
 
