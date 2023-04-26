@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Desenvolvedor de Software iniciante
+## Desenvolvedor de Software Jr.
 
 ### Skills aprendidas até o momento
 
