@@ -2,12 +2,14 @@
 
 ## Desenvolvedor de Software Jr.
 
-### Skills aprendidas até o momento
+### Skills aprendidas até o momento:
 
  - Git;
  - Github;
  - JavaScript básico.
+ - TypeScript básico.
 
+Inglês intermediário
 
 Carreira em construção...
 <!--
