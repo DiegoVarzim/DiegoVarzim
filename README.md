@@ -7,7 +7,8 @@
  - Git;
  - Github;
  - JavaScript básico;
- - TypeScript básico.
+ - TypeScript básico;
+ - Python.
 
 Inglês intermediário
 
