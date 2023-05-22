@@ -6,9 +6,13 @@
 
  - Git;
  - Github;
+ - HTML básico;
+ - CSS básico;
  - JavaScript básico;
  - TypeScript básico;
- - Python.
+ - Banco de Dados SQL básico;
+ - Python;
+ - chatGPT.
 
 Inglês intermediário
 
