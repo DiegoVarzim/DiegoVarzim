@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Desenvolvedor Python Jr.
+## Desenvolvedor Jr.
 
 ### Skills aprendidas até o momento:
 
