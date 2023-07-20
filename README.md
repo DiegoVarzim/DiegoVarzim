@@ -11,7 +11,7 @@
  - JavaScript básico;
  - TypeScript básico;
  - Banco de Dados SQL básico;
- - Python;
+ - Python básico;
  - chatGPT.
 
 Inglês intermediário
